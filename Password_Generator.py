@@ -1,7 +1,7 @@
 import random
 import string
 
-def get_user_input()
+def get_user_input():
     while True:
         try:
             length = int(input("Enter desired password length (min 6): "))
